@@ -1,13 +1,13 @@
-package com.insurance.archetype.microservicearchetype;
+package com.insurance.microservice.archetype;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroserviceArchetypeApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroserviceArchetypeApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }

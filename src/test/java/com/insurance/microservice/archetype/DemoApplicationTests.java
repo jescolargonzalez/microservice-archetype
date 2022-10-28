@@ -1,10 +1,10 @@
-package com.insurance.archetype.microservicearchetype;
+package com.insurance.microservice.archetype;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceArchetypeApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
